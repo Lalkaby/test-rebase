@@ -31,7 +31,7 @@ class MyServiceTest {
     }
 
     interface MyService {
-        // методы сервиса
+        // changes
     }
 
     static class MyServiceImpl implements MyService {
